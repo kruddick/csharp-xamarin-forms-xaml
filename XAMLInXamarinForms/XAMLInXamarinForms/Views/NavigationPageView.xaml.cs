@@ -16,6 +16,7 @@ namespace XAMLInXamarinForms.Views
         public NavigationPageView()
         {
             InitializeComponent();
+            PopModal();
         }
 
         private async void PopModal()
